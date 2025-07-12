@@ -52,8 +52,7 @@
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
     <a href="https://nextjs.org/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/></a>
-     <a href="https://expressjs.com" target="_blank"><img width="48" height="48" src="https://img.icons8.com/tiny-bold/48/express-js.png" alt="express-js"/>
-  </a>
+    <a href="https://expressjs.com" target="_blank"><img width="48" height="48" src="https://img.icons8.com/tiny-bold/48/express-js.png" alt="express-js"/></a>
   <a href="https://www.prisma.io" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/></a>
 </p>
 <br>
