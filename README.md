@@ -3,7 +3,11 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinathreya20&label=Profile%20views&color=0e75b6&style=flat" alt="nithinathreya20" /> </p> -->
 <br><br>
-
+<h2 align='left'>
+  <img width="48" height="48" src="https://img.icons8.com/stickers/100/user-male-circle.png" alt="user-male-circle"/>
+  About me:
+ </h2> 
+ 
 - 🌱 I’m currently learning **next.js**
 
 - 👯 I’m looking to collaborate on **full stack web development projects**
