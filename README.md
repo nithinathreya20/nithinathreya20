@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/nih_tin/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
-
+<br>
 
 <h2 align="left">
   <img width="48" height="48" src="https://img.icons8.com/stickers/100/laptop-coding.png" alt="laptop-coding"/>
@@ -36,6 +36,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
 </p>
+<br>
 
 <h2 align="left">
   <img width="48" height="48" src="https://img.icons8.com/stickers/100/maintenance.png" alt="maintenance"/>
@@ -55,4 +56,5 @@
   </a>
   <a href="https://www.prisma.io" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/></a>
 </p>
+<br>
 
