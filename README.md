@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithin Athreya</h1>
-<h3 align="center">3rd year B.tech CSE student at IIIT Kottayam | Enthusiastic Web Developer</h3>
+<h3 align="center">4th year B.tech CSE student at IIIT Kottayam | Fullstack Developer</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinathreya20&label=Profile%20views&color=0e75b6&style=flat" alt="nithinathreya20" /> </p> -->
 <br><br>
